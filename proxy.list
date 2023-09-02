@@ -1,6 +1,6 @@
 # NAME: Proxy
 # UPDATED: 2023-09-02
-DOMAIN-SUFFIX,cisco.com
+#DOMAIN-SUFFIX,cisco.com
 DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,flibusta.is
