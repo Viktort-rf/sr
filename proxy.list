@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,cisco.com
 DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,flibusta.is
-DOMAIN-SUFFIX,vyos.io
+#DOMAIN-SUFFIX,vyos.io
 DOMAIN-SUFFIX,meta.com
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,twitter
